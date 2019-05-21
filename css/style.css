@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: cadetblue;
+    color: white;
+}
+
+#header button {
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: brown;
+    color: white;
+    font-size: 20px
+}
+
+.restart {
+    margin-left: 1rem;
+}
+
+canvas {
+    margin-top: 1rem;
+}
